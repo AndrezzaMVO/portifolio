@@ -1,0 +1,89 @@
+body{
+    background-image: url(../img/Fundo.webp);
+    background: size 100%;
+    background-repeat: no-repeat;
+}
+.container{
+    
+    background-size: 30%;
+}
+#img_redonda{
+   margin-left: 43%;
+   border-radius: 50%;
+   border: 5px solid wheat;
+   height: 200px;
+   height: 250px;
+   margin-top: 5%;
+}
+.header address{
+    text-align: center;
+    font-size: 20px; 
+    color: wheat; 
+}
+.header h2{
+    text-align:center;
+    color: wheat;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+.mainav li{
+    display: inline;
+    color:wheat;
+    text-decoration: none;
+    margin-left:8%;
+    justify-content: center;
+}
+.mainav a {
+    text-decoration: none;
+    color:wheat;
+    padding: 5%;
+    width: 5%;
+}
+.mainav a:hover{
+    color: orangered;
+}
+.mainav{
+    margin-left: 29%;
+    margin-top: 2%;
+    margin-right: 30%;
+}
+.contentc{
+    margin-left: 40%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+   
+}
+.mainavc p{
+    color: wheat;
+}
+.contentcd{
+    color: wheat;
+    margin-top: 10%;
+    margin-left: 5%;
+    
+}
+.contentsobre{
+    color: wheat;
+    text-align: center;
+    margin-right: 10%;
+    margin-top: 8%;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+.redes{
+    text-decoration: none;
+    list-style: none;
+}
+.redes ul a{
+    display: block;
+    padding: 10px;
+    margin-left: 10%;
+}
+.redes ul li a img{
+    max-width: 10%;
+}
+.contentc h2{
+    color: wheat;
+    margin-right: 10%;
+}
